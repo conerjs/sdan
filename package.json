@@ -1,0 +1,13 @@
+{
+  "name": "sdan",
+  "version": "0.0.1",
+  "description": "A JavaScript project server",
+  "license": "MIT",
+  "keywords": [
+    "sdan"
+  ],
+  "homepage": "https://github.com/conerjs/sdan#readme",
+  "bugs": "https://github.com/conerjs/sdan/issues",
+  "repository": "git+https://github.com/conerjs/sdan.git",
+  "devDependencies": {}
+}
